@@ -1,0 +1,5 @@
+Čia yra 2007 m. VU MIF kompiuterių architektūros praktinių užduočių sprendimų pavyzdžiai. Kažkur yra ir disassembler'is.
+
+Autorius - ne aš, o įvairūs buvę studentai.
+
+Nekopijuokit pabaičiui, nes už plagijavimą patys žinot kaip ten būna.
